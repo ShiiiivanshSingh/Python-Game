@@ -1,2 +1,3 @@
 #﻿# Python-Game
-[Screenshot#1.png]
+
+![game](Screenshot#1.png)
