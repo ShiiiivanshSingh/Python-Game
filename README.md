@@ -1,3 +1,3 @@
 #﻿# Python-Game
 
-![game](Screenshot#1.png)
+![game](Screenshot.png)
